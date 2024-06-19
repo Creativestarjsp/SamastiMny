@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837086525923",
+    "project_id": "samastify",
+    "storage_bucket": "samastify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837086525923:android:22f1b8f3c4582a8d1808d6",
+        "android_client_info": {
+          "package_name": "com.samastimatrimony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsxrKVyjNjs0I6O2BJV1pvEF3KjA3PZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
